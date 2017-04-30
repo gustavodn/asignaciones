@@ -1,0 +1,8 @@
+gedn_user_homepage:
+    resource: "@GEDNUserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
